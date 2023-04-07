@@ -1,0 +1,31 @@
+input {
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 4px;
+}
+
+input[type="checkbox"], input[type="radio"] {
+	height: 20px;
+	width: 20px;
+}
+
+label {
+	width: 140px;
+	display: inline-block;
+}
+
+textarea {
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 4px;
+}
+
+select {
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 4px;
+}
+
+body {
+	line-height: 40px;
+}
