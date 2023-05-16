@@ -1,0 +1,23 @@
+
+.form-group label {
+	width: 200px;
+	display: inline-block;
+}
+
+.form-group input {
+	padding: 6px;
+	font-size: 14px;
+	border-radius: 4px;
+}
+
+.form-group input[type="checkbox"], input[type="radio"] {
+	height: 16px;
+	width: 16px;
+}
+input:invalid {
+    border: 2px solid red;
+  }
+  .autocomplete {
+    position: relative;
+    display: inline-block;
+  }
