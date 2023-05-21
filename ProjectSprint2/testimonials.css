@@ -1,0 +1,21 @@
+.product{
+    width: 750px;
+    margin: auto;
+    height: 350px;
+  }
+  
+  img{
+      height: 250px;
+      width: 200px;
+      border-radius: 18px;
+  }
+  .img{
+    padding: 20px;
+    float: right;
+    width: 300px;
+  }
+  .text{
+      padding: 25px;
+        float: center;
+       width: 380px;
+  }
