@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: rgb(70, 18, 18);
+  }
+  h2{
+    text-align: center;
+    color: rgb(70, 18, 18);
+  }
+  #product {
+   
+    display: flex;
+    list-style: none;
+    width: 1020px;
+    margin: auto; 
+  }
+  .images{
+    padding: 40px;
+    float: center;
+    width: 400px;
+  }
+  img{
+    height: 375px;
+    width: 300px;
+  }
